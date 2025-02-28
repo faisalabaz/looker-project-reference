@@ -6,7 +6,7 @@ view: explore_2 {
       shop_cd,
       qty,
       gross
-    FROM `table_1`
+    FROM `table_2`
     ;;
     datagroup_trigger: datagroup__refresh_everyday
   }
